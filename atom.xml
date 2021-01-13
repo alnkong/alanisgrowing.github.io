@@ -1,19 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://alanisgrowing.github.io</id>
+    <id>https://alanisgrowing.cn</id>
     <title>Gridea</title>
-    <updated>2021-01-13T18:05:22.924Z</updated>
+    <updated>2021-01-13T19:07:37.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://alanisgrowing.github.io"/>
-    <link rel="self" href="https://alanisgrowing.github.io/atom.xml"/>
+    <link rel="alternate" href="https://alanisgrowing.cn"/>
+    <link rel="self" href="https://alanisgrowing.cn/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://alanisgrowing.github.io/images/avatar.png</logo>
-    <icon>https://alanisgrowing.github.io/favicon.ico</icon>
+    <logo>https://alanisgrowing.cn/images/avatar.png</logo>
+    <icon>https://alanisgrowing.cn/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
+        <title type="html"><![CDATA[Alan新建Blog啦~]]></title>
+        <id>https://alanisgrowing.cn/post/alan-xin-jian-blog-la-~/</id>
+        <link href="https://alanisgrowing.cn/post/alan-xin-jian-blog-la-~/">
+        </link>
+        <updated>2021-01-13T18:46:22.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>月初看到韩林涛老师分享了自己建立blog的经验，于是今天我也照猫画虎地建站了😁。我做的具体事项有：</p>
+<ol>
+<li>github建立专属于本blog的repository</li>
+<li>github建立专属于本blog的Pages</li>
+<li>下载安装Gridea并添加配置信息</li>
+<li>联系韩林涛老师交流心得体会</li>
+<li>阅读Gridea的相关文档并作初步了解</li>
+<li>比较Gitalk和Disqus评论系统并最终选定Gitalk</li>
+<li>设置Gitalk并在Gridea中填入配置信息</li>
+<li>GoDaddy上购买域名并填入github的repository</li>
+<li>目前在等待https的设置项可用，可能是因为新的域名在DNS需要一个小时左右更新。</li>
+</ol>
+<p>从小到大用了很多的blog系统，什么新浪博客啊、blogger.com啊、blogspot啊、还有2002年左右blog大行其道时国内有一大堆blog服务，我都用过。上大学时就是校内网、Facebook。2019年左右有了自己的微信公众号。微信公众号目前目测有如下不足：</p>
+<ol>
+<li>我的公众号不支持用户评论，我无法与读者互动。我发现自己一个人发文章很没意思，也没有什么反馈。如果能在文章后看到大家的评论，我会更有动力更有成就感，分享会变得有意思得多。</li>
+<li>主要用于移动端显示，内容较多较密集的文章不适合</li>
+<li>文章如果有错误，后期修改、撤销会比较麻烦<br>
+目前想到的就这些。至于插入和编辑图片、文章分类等功能还需要进一步比较。</li>
+</ol>
+<p>再回顾一下自己最近的技术演进史吧：</p>
+<ol>
+<li>把43寸带鱼屏卖了，买了个23寸4k显示器，有时有点小后悔，例如在用腾讯会议开多人会议时，真的是屏幕越大显示的人像越多。</li>
+<li>购入了Mac Mini和Magic Trackpad准备人生第一次尝试MacOS</li>
+<li>开始使用Roam Edit，准备将这个作为自己的私人笔记应用，好处是双向链接、块引用。</li>
+<li>开始学习Photoshop，因为学会了祛痘、梯形校正等功能，发现祛痘真的可以大幅缓解我的外貌焦虑。</li>
+<li>购买了Affinity for iPad</li>
+</ol>
+<p>至于自己的教学水平，最近开始看一本书，叫做<em>How to Teach Listening</em>。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://alanisgrowing.github.io/post/hello-gridea/</id>
-        <link href="https://alanisgrowing.github.io/post/hello-gridea/">
+        <id>https://alanisgrowing.cn/post/hello-gridea/</id>
+        <link href="https://alanisgrowing.cn/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
